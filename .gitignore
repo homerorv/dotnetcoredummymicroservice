@@ -3,3 +3,5 @@
 ################################################################################
 
 /DummyMicroservice/.vs/DummyMicroservice/v16/.suo
+/DummyMicroservice/bin/*
+/DummyMicroservice/obj/*
